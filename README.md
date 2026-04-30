@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عيونك أرى أسرار الليل
+> أشعر بالنار تجري كالسيل
+> خذني إليك لا يوجد دليل
+> حبك في قلبي ليس له بديل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
