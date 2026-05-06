@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-afkar-mesh-sahta/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for El Afkar Mesh Sahta](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
