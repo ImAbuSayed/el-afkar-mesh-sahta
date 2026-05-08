@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Afkar Mesh Sahta
+
+This log tracks the cryptographic history and versioning for the song **El Afkar Mesh Sahta** (el-afkar-mesh-sahta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:18:32.828810 | `v1` | `1b5c49c830b848769e7ee695df28255968aa361b2adfd38050a468d0a62c55ea` | `b89abc7ce1a86cbca244c29fe77ed92de68d95b183cc1d71736c8f3fd2f18a83` | `2026-05-09_el-afkar-mesh-sahta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
